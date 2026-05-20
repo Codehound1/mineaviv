@@ -4,7 +4,7 @@ export default function Home() {
       <section className="mx-auto flex min-h-screen max-w-6xl flex-col justify-center px-6">
         
         <p className="mb-6 text-sm uppercase tracking-[0.35em] text-cyan-400">
-          MineAviv AI
+          MineAviv AI Labs
         </p>
 
         <h1 className="max-w-5xl text-5xl font-bold leading-tight md:text-7xl">
